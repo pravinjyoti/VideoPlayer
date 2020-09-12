@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63312806841",
+    "firebase_url": "https://videoplayer-54e51.firebaseio.com",
+    "project_id": "videoplayer-54e51",
+    "storage_bucket": "videoplayer-54e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63312806841:android:099b3ffaebc96efd35ac68",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_video_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63312806841-s5hjra4v1uptpvuc4375e016rskbqor7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLdB1MQKamP01k3oWze-Cz3UQdYTrb1Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63312806841-s5hjra4v1uptpvuc4375e016rskbqor7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
